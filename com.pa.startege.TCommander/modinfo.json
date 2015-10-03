@@ -1,0 +1,23 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "com.pa.startege.TCommander",
+    "display_name": "Titan Commander",
+    "description": "Titan Commander",
+    "author": "startege1",
+    "version": "1.0",
+    "build": "88288",
+    "date": "2015/10/04",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-titan-commander.70618/",
+    "category": [
+        "server-mod",
+        "units",
+        "game-mode"
+    ],
+    "id": "",
+    "icon": "",
+    "priority": 21
+	
+}
+
